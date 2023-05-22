@@ -1,0 +1,4 @@
+# Created at 2023-05-22T16:51:27.828
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Alta\Testing\Alta-Serenity-Rest-QE10_AndersenASG\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

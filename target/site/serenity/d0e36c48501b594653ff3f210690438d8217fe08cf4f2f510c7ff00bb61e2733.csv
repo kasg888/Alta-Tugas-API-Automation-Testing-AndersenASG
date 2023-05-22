@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register","Register with valid json","SUCCESS","2023-05-22T16:52:10.696+07:00[Asia/Bangkok]","0.0","0.92"
+"Register","Register with invalid json no password","SUCCESS","2023-05-22T16:52:11.636+07:00[Asia/Bangkok]","0.0","1.08"
+"Register","Register with invalid json no email","SUCCESS","2023-05-22T16:52:12.747+07:00[Asia/Bangkok]","0.0","0.93"

@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: Get single user
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 10.271 s <<< FAILURE! - in Get single user
+Get single user.Get single user with invalid ig #1  Time elapsed: 0.78 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <404>.
+
+
+Get single user.Get single user with invalid ig #2  Time elapsed: 0.8 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <404>.
+
+
+Get single user.Get single user with invalid ig #3  Time elapsed: 0.92 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <404>.
+
+
+Get single user.Get single user with invalid ig #4  Time elapsed: 0.816 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <404>.
+
+

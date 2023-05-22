@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get list users","Get list user with valid parameter page","SUCCESS","2023-05-22T16:51:41.009+07:00[Asia/Bangkok]","0.0","3.34"
+"Get list users","Get list users resource","SUCCESS","2023-05-22T16:51:50.108+07:00[Asia/Bangkok]","0.0","0.35"

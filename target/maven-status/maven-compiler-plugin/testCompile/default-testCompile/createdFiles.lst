@@ -1,0 +1,16 @@
+starter\StepDef\RegisterStepDef.class
+starter\StepDef\PostStepDef.class
+starter\Utils\Constants.class
+starter\StepDef\GetListUsersStepDef.class
+starter\StepDef\LoginStepDef.class
+starter\postcodes\PostCodeAPI.class
+starter\Reqres\ReqresApi.class
+starter\StepDef\ReqresStepDef.class
+starter\StepDef\PatchStepDef.class
+starter\Reqres\ReqresResponses.class
+starter\StepDef\DeleteStepDef.class
+starter\CucumberTestSuite.class
+starter\StepDef\GetSingleUserStepDef.class
+starter\StepDef\PutStepDef.class
+starter\postcodes\LocationResponse.class
+starter\postcodes\PostCodeStepDefinitions.class

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="4" name="Get single user" skipped="0" tests="14" time="10.2" timestamp="2023-05-22 04:51:50"><testcase name="Get single user with valid id"/><testcase name="Get single user with invalid ig"><failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;404&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;404&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;404&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:674)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:126)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:134)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)&#13;
+io.restassured.internal.ValidatableResponseImpl.super$2$statusCode(ValidatableResponseImpl.groovy)&#13;
+groovy.lang.MetaMethod.doMethodInvoke(MetaMethod.java:323)&#13;
+groovy.lang.MetaClassImpl.invokeMethod(MetaClassImpl.java:1267)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy:142)&#13;
+io.restassured.internal.ValidatableResponseImpl.statusCode(ValidatableResponseImpl.groovy)&#13;
+starter.StepDef.ReqresStepDef.statusCodeShouldBeBadRequest(ReqresStepDef.java:37)&#13;
+✽.Status code should be 400 Bad Request(classpath:features/reqres/GetSingleUser.feature:20)&#13;
+</system-err></testcase><testcase name="Get single user with invalid id"/><testcase name="Get single user resource with valid id"/><testcase name="Get single user resource with invalid id"/></testsuite>

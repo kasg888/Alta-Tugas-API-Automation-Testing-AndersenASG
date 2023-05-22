@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Login" skipped="0" tests="3" time="3.33" timestamp="2023-05-22 04:52:00"><testcase name="Login with valid json"/><testcase name="Login with invalid json no password"/><testcase name="Login with invalid json no email"/></testsuite>

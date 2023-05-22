@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: Get list users
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 9.553 s <<< FAILURE! - in Get list users
+Get list users.Get list user with invalid parameter page #1  Time elapsed: 1.186 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Get list users.Get list user with invalid parameter page #2  Time elapsed: 0.957 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Get list users.Get list user with invalid parameter page #3  Time elapsed: 0.84 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Get list users.Get list user with invalid parameter page #4  Time elapsed: 0.93 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <400> but was <200>.
+
+
+Get list users.Get list user with invalid parameter number page #1  Time elapsed: 0.79 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <404> but was <200>.
+
+
+Get list users.Get list user with invalid parameter number page #2  Time elapsed: 0.803 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <404> but was <200>.
+
+
